@@ -1,9 +1,7 @@
 <% provide(:testLourd, 'Suce stonedge en help')%>
 <% provide(:title,'Help')%>
-    <h1>Sample App</h1>
-    <p>
-      This is the home page for the
-      <a href="http://railstutorial.org/">Ruby on Rails Tutorial</a>
-      sample application.
-    </p>
-        <p> Voici le texte variable : <%= yield(:testLourd) %> fini </p>
+    <h1>Help</h1>
+    <h2>
+      If you need any help on how using this app, please contact us on  <%= link_to "Contact page", contact_path%>
+    </h2>
+  
