@@ -1,3 +1,5 @@
-# Ruby on Rails Tutorial: sample application
+# Monneyger web application version
 
-My first web app using RUBY/ONRAILS
+Manage your monney and debt with your friends. 
+Available on the web on February 2014 and on Android in June 2014
+Stay tuned !
